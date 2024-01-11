@@ -1,0 +1,10 @@
+
+Feels_like.innerHtml=response.Feels
+Humidit.innerHtml=response.Humidity
+; Max_temp.innerHtml=response.Max_temp
+; Min_temp.innerHtml=response.Min_temp
+Sunrise.innerHtml=response.Sunrise
+Sunset.innerHtml =response.Sunset
+; Temp.innerHtml=response.Temp
+
+; Wind_speed.innerHtml=response.wind_speed
